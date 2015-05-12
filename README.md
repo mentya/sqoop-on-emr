@@ -9,7 +9,7 @@ I am using Amazon’s Hadoop version 4.0(hadoop latest version in aws) and sqoop
 
 Download the sqoop version 1.4.5 for hadoop 2.O support
 =========================================================================
-http://www.webhostingreviewjam.com/mirror/apache/sqoop/1.4.5/sqoop-1.4.5.bin__hadoop-2.0.4-alpha.tar.gz
+https://archive.apache.org/dist/sqoop/1.4.5/sqoop-1.4.5.bin__hadoop-2.0.4-alpha.tar.gz
 
 downloaded mysql-connector-java-5.1.35.tar.gz(download platform independet)
 ============================================================================
